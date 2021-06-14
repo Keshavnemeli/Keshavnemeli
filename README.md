@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Keshavnemeli
 - 👀 I’m interested in building fun stuff and machine learning
 - 🌱 I’m currently learning javascript (react/node).
-- 💞️ I’m looking to collaborate on any small scale fun and interesting projects.
+- 💞️ I’m looking to collaborate on any interesting projects in javascript/python.
 - 📫 How to reach me keshavnemeli@gmail.com
 
 <!---
